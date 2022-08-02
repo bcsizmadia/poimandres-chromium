@@ -1,0 +1,53 @@
+{
+	"manifest_version": 2,
+	"version": "1.0",
+	"name": "Poimandres",
+	"description": "Poimandres: minimal, frameless dark-theme",
+	"icons": {
+		"128": "/images/icon.png"
+	},
+	"theme": {
+		"colors": {
+			"bookmark_text": [
+				230,
+				240,
+				250
+			],
+			"frame": [
+				26,
+				30,
+				40
+			],
+			"frame_inactive": [
+				26,
+				30,
+				40
+			],
+			"tab_background": [
+				38,
+				41,
+				51
+			],
+			"tab_background_text": [
+				230,
+				240,
+				250
+			],
+			"tab_background_text_inactive": [
+				90,
+				90,
+				90
+			],
+			"tab_text": [
+				230,
+				240,
+				250
+			],
+			"toolbar": [
+				48,
+				59,
+				77
+			]
+		}
+	}
+}
